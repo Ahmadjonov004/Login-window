@@ -3,7 +3,7 @@ import Login from './pages/Login';
 import About from './pages/about';
 import Home from './pages/home';
 import Register from './pages/Register';
-
+import './App.css'
 function App() {
   return (
     <>

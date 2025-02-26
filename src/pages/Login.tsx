@@ -1,6 +1,12 @@
 import '../App.css'
 
 function login() {
+    const handleChange = () => {
+
+    }
+    const handleSubmit = () => {
+        
+    }
   return (
     <div className="login container">
             <h1>Log in</h1>

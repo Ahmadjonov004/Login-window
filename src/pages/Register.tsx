@@ -1,6 +1,12 @@
 import '../App.css'
 
 function register() {
+    const handleChange = () => {
+
+    }
+    const handleSubmit = () => {
+        
+    }
   return (
     <div className="register login container">
             <h1>Register</h1>
